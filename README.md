@@ -1,6 +1,6 @@
-Instrucciones para Iniciar el Proyecto Pokedex - Frontend
+# Instrucciones para Iniciar el Proyecto Pokedex - Frontend
 
-Configuración del Frontend
+# Configuración del Frontend
 1. Instalación de Dependencias
 En la carpeta del frontend, ejecuta el siguiente comando para instalar las dependencias:
 
@@ -12,7 +12,7 @@ Ejecuta el siguiente comando para iniciar la aplicación frontend:
 npm start
 La aplicación estará disponible en http://localhost:3000 por defecto.
 
-Configuración del Backend
+# Configuración del Backend
 1. Instalación de Dependencias
 En la carpeta del backend, ejecuta el siguiente comando para instalar las dependencias:
 
@@ -38,7 +38,7 @@ Ejecuta el siguiente comando para iniciar el servidor:
 node server.js
 El servidor se ejecutará en el puerto configurado en el archivo .env (por defecto, en el puerto 3001).
 
-Verificación
+# Verificación
 Abre tu navegador y visita http://localhost:3000 para verificar la aplicación Pokedex. Puedes realizar solicitudes a las siguientes rutas en Postman para comprobar el funcionamiento del backend:
 
 Obtener todos los Pokémon: GET http://localhost:3001/pokemons
